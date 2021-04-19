@@ -195,7 +195,7 @@ session_start();
 if($_SESSION['user']){
   echo"<div>". $_SESSION['user']."</div>" ;
 }else{
-    header("location:signin.php");
+    header("location:index.php");
 }
 
 ?>
