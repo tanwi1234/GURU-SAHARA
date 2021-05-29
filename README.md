@@ -50,7 +50,7 @@ Created a admin Dashboard where teacher go through their account and can create 
                                                                      ** Set the paper and Downloaded in pdf form by an Admin**
 ![Screenshot (1120)](https://user-images.githubusercontent.com/65597267/114759476-d5e49e00-9d7b-11eb-82b6-f10baee37557.png)
 
-**Step 10: Admin change password**
+**Step 10: Update Admin Profile**
 
 ![Screenshot (1117)](https://user-images.githubusercontent.com/65597267/114759080-5a82ec80-9d7b-11eb-8df2-4c0e61772fd1.png)
 
