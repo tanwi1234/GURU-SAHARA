@@ -1,4 +1,4 @@
-# Admin-dashboard-Elearning-management-system
+# Admin-dashboard-Online teaching-management-system
 Created a admin Dashboard where teacher go through their account and can create form preferably using server scripting language PHP wherein you will be storing the data for courses,branch,update documents,view documents and generate questions paper through that for and once the data is stored, any user should be able to download a question paper aligned through the different courses and branches, based on various parameters such as course, branch,semester,subject etc through a database using MYSQL.
    
    link of my project:https://admin-online-learning-system.herokuapp.com/index.php
